@@ -3,7 +3,7 @@
 
 # vietnam-voice [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau/VietNam-Voice/edit/main/README.md) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau/VietNam-Voice/edit/main/README.md)
 
-This is the audio dataset of the voices of 80 VietNamese
+This is the audio dataset of the voices of 40 VietNamese
 
 >
 > Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
